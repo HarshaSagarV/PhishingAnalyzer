@@ -1,4 +1,4 @@
-# Anti-Phishing Analyzer
+# Phishing Analyzer
 
 ## how to download eml files
 
